@@ -13,7 +13,8 @@ You may use this program to copy and paste games into an excel file or google sh
 ### Status
 Ver 1.0: Generates one game just for explorers per time slot based on category selected
 Ver 1.1: Contains 7 blocks of time where 3 games are generated per time block
-Ver 1.2 (Current): Added export feature where the games are selectable in another window
+Ver 1.2 : Added export feature where the games are selectable in another window
+Ver 1.3 (Current): Games excluding crafts have been added for every age group
 
 
 ### Features
