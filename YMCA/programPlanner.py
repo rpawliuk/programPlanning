@@ -2,8 +2,7 @@ import PySimpleGUI as sg
 import os.path
 import random
 from PySimpleGUI import Text
-from tkinter import Tk, font
-import gamesList
+
 
 #('LightBrown13')
 sg.theme('TealMono')
